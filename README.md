@@ -1,4 +1,4 @@
-# {Name}
+# Introdução CSharp
 
 <!-- Replace this badge with your own-->
 [![Build status](https://ci.appveyor.com/api/projects/status/hv6uyc059rqbc6fj?svg=true)](https://ci.appveyor.com/project/madskristensen/extensibilitytools)
@@ -9,7 +9,7 @@ or get the [CI build](http://vsixgallery.com/extension/{ID}/).
 
 ---------------------------------------
 
-{Description}
+Exercícios de Introdução à Linguagem C# 
 
 See the [change log](CHANGELOG.md) for changes and road map.
 
