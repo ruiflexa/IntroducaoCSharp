@@ -29,7 +29,7 @@ namespace Exercicio17
         {
             Pessoa pessoa = new Pessoa("Samuel", 30);
             Console.WriteLine(pessoa.Nome);
-            // Console.WriteLine(pessoa.getIdade());
+
             MostrarDados("Bruno", 30);
             SetNome();
 

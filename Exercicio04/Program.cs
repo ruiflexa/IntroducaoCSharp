@@ -12,7 +12,6 @@ namespace Exercicio04
         {
             string num = "1234";
             int n = int.Parse(num);
-            //Convert.ToInt32(num);
             Console.WriteLine(n);
             Console.ReadKey();
         }

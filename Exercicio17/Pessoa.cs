@@ -8,13 +8,6 @@ namespace Exercicio17
 {
     class Pessoa
     {
-        //private string nome;
-       // private int idade;
-
-        public int Idade { get; set; }
-        public string Nome { get; set; }
-
-        //public string Nome { get => nome; set => nome = value; }
 
         public Pessoa(string nome, int idade)
         {
@@ -22,9 +15,8 @@ namespace Exercicio17
             this.Idade = idade;
         }
 
-       // public string getNome() { return nome; }
-       // public int getIdade() { return idade; }
-
+        public int Idade { get; set; }
+        public string Nome { get; set; }
 
     }
 }
